@@ -19,8 +19,17 @@ An autonomous **AI Security Operations Center (AI-SOC)** built using **LangGraph
 - Interactive incident management dashboard
 
 ---
+## 📸 Screenshots
 
+### Dashboard
 
+![Dashboard](/dashboard.png)
+
+### Incident Analysis
+
+![Incident Analysis](/incident-analysis.png)
+
+---
 
 ## 🛠️ Tech Stack
 
