@@ -22,12 +22,11 @@ An autonomous **AI Security Operations Center (AI-SOC)** built using **LangGraph
 ## 📸 Screenshots
 
 ### Dashboard
-
-![Dashboard](/dashboard.png)
+![Dashboard](/incident-analysis.png)
 
 ### Incident Analysis
 
-![Incident Analysis](/incident-analysis.png)
+![Incident Analysis](/dashboard.png)
 
 ---
 
